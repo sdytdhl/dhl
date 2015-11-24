@@ -1,0 +1,2 @@
+先执行	export LD_LIBRARY_PATH="./"
+再执行	./MySQLTest.exe
